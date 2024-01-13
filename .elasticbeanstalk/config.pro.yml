@@ -1,0 +1,11 @@
+global:
+  application_name: NOMBRE_APP_BEANSTALK
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: eb-cli
+  sc: git
+  workspace_type: Application
+deploy:
+  artifact: ./myapp.zip
