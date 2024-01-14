@@ -1,4 +1,4 @@
-<h2>Install Flarum</h2>
+<h2>Install Flarum via CI/CD</h2>
 
 <p>Set up your forum by filling out your details below. If you have any trouble, get help on the <a href="https://docs.flarum.org/install" target="_blank">Flarum website</a>.</p>
 
